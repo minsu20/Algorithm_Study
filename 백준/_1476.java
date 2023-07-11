@@ -1,3 +1,5 @@
+// 메모리 
+
 import java.util.*;
 public class _1476 {
     public static void main(String[] args) {
